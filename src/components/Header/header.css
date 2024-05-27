@@ -1,0 +1,21 @@
+.Titel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: large;
+    color: rgb(115, 22, 202);
+    margin-top: 30px;
+}
+
+.Month, .Year {
+    margin: 0 5px; 
+}
+
+.Arrow {
+    background: none;
+    border: none;
+    font-size: 15px;
+    cursor: pointer;
+    margin: 0 20px;
+}
